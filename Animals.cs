@@ -1,4 +1,4 @@
-﻿namespace knightmoves;
+﻿namespace knightmoves; 
 
 public class Trainer{
     public string Listen(Animal[] animals) {
